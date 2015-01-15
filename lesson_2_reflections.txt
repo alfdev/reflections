@@ -6,3 +6,9 @@ the difference is that the staging area is the logically located between wd and 
 
 How can you use the staging area to make sure you have one commit per logical change?
 with git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you need different development flow. 
+
+How do the diagrams help you visualize the branch structure?
+visualizing each branch and commit made on the repo
