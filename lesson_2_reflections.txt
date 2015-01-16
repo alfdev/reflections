@@ -12,3 +12,6 @@ when you need different development flow.
 
 How do the diagrams help you visualize the branch structure?
 visualizing each branch and commit made on the repo
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+one new commit
