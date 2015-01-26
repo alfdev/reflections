@@ -6,3 +6,6 @@ to avoid conflicts during developing
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks are like clones made from github to github, instead of from a remote repo to a local like clone does. Branches are labels that points to a specific commit.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+to avoid conflicts.
