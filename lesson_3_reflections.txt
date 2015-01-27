@@ -12,3 +12,6 @@ to avoid conflicts.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 with another CVS? :)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When i need to work on a new functionality, this approach allow me to avoid make mistake on the master branch
